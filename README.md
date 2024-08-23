@@ -10,6 +10,7 @@ Exit on Esc Key: Stops the keylogger when the Esc key is released.
 Prerequisites
 Python: Ensure that Python 3.x is installed on your system.
 pynput Library: The pynput library is required for capturing keyboard events. You can install it using pip.
+
 USAGES=
 Save the Script: Copy the provided Python code into a file named keylogger.py (or any name you prefer with a .py extension).
 
